@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="UPI Advice and Interview Study Codebook " />
         <p className="description">
-         Link to codebook</code>
+         Link to codebook
         </p>
       </main>
 

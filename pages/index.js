@@ -7,8 +7,9 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>UPI Advice 2024/title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      
       <main>
         <Header title="UPI Advice and Interview Study Codebook " />
         <p className="description">

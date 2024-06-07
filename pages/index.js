@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>UPI Advice 2024/title>
+        <title>UPI Advice 2024 </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
